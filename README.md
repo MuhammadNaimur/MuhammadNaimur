@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Naimur</h1>
 
-<h3 align="center">Aspiring Web Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Aspiring Web Developer from Bangladesh </h3>
 
 <p align="center">
   Learning to build beautiful, responsive and user-friendly websites.
