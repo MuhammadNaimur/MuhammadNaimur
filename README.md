@@ -1,40 +1,53 @@
-Hi, I'm Muhammad Nimur 👋
 
-💻 Aspiring Web Developer from Bangladesh 🇧🇩
+<h1 align="center">Hi 👋, I'm Muhammad Naimur</h1>
 
-I'm starting my journey in web development and learning by building projects and practicing every day.
+<h3 align="center">Aspiring Web Developer from Bangladesh 🇧🇩</h3>
 
-🌱 Currently Learning
+<p align="center">
+  Learning to build beautiful, responsive and user-friendly websites.
+</p>
 
-- HTML
-- CSS
-- JavaScript
-- WordPress Customization
-- Git & GitHub
-
-🎯 My Goals
-
-- Build responsive and user-friendly websites
-- Improve my coding and problem-solving skills
-- Create real-world web projects
-- Become a professional Web Developer
-
-🛠️ Technologies I'm Learning
-
-- HTML5
-- CSS3
-- JavaScript
-- WordPress
-- Git & GitHub
-
-📚 My Learning Journey
-
-I'm learning web development from the basics, practicing consistently, and working toward building useful websites.
-
-📫 Connect With Me
-
-- GitHub: https://github.com/MuhammadNaimur
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Learning+HTML+%26+CSS;Learning+JavaScript;Exploring+WordPress+Customization;Building+Projects+Every+Day" alt="Typing SVG" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+👨‍💻 About Me
+
+- 🌱 I'm currently learning **HTML, CSS and JavaScript**
+- 🌐 Exploring **WordPress Customization**
+- 🛠️ Practicing by building small projects
+- 🎯 My goal is to become a skilled Web Developer
+- 📍 Based in Bangladesh
+- 📫 Email: muhammadnaimurrn@gmail.com
+
+---
+
+🧰 Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,git,github,vscode" alt="Skills and tools" />
+</p>
+
+---
+
+📂 My Projects
+
+- 🌐 **Portfolio Website** — Coming soon
+- 🎨 **Landing Page** — Coming soon
+- ⚙️ **JavaScript Projects** — Coming soon
+- 📝 **WordPress Projects** — Coming soon
+
+---
+
+📈 My Learning Journey
+
+I'm learning web development step by step, practicing consistently,
+and improving my coding skills through real projects.
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
