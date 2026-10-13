@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi, I'm Muhammad Nimur 👋
 
-<!--
-**MuhammadNaimur/MuhammadNaimur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web Developer from Bangladesh 🇧🇩
 
-Here are some ideas to get you started:
+I'm starting my journey in web development and learning by building projects and practicing every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- WordPress Customization
+- Git & GitHub
+
+🎯 My Goals
+
+- Build responsive and user-friendly websites
+- Improve my coding and problem-solving skills
+- Create real-world web projects
+- Become a professional Web Developer
+
+🛠️ Technologies I'm Learning
+
+- HTML5
+- CSS3
+- JavaScript
+- WordPress
+- Git & GitHub
+
+📚 My Learning Journey
+
+I'm learning web development from the basics, practicing consistently, and working toward building useful websites.
+
+📫 Connect With Me
+
+- GitHub: https://github.com/MuhammadNaimur
+
+---
+
+⭐ Thanks for visiting my profile!
