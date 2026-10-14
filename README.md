@@ -95,7 +95,7 @@ When I publish a project, I'll replace its status with a link to the repository 
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNaimur&bg_color=0D1117&color=00F7FF&line=007BFF&point=FFFFFF&area=true&area_color=007BFF&hide_border=true&title_color=00F7FF"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNaimur&theme=github-compact&bg_color=0D1117&color=00F7FF&line=007BFF&point=FFFFFF&area=true&area_color=007BFF&hide_border=true&custom_title=Muhammad%20Naimur%27s%20Contribution%20Activity"
     alt="GitHub contribution activity graph"
   />
 </div>
