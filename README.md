@@ -5,7 +5,7 @@ Username: MuhammadNaimur
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007BFF,100:00F7FF&height=250&section=header&text=Muhammad%20Naimur&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Future%20AI%20Engineer&descSize=17&descAlignY=60&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007BFF,100:00F7FF&height=250&section=header&text=Muhammad%20Naimur&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20Engineer%20in%20the%20Making&descSize=17&descAlignY=60&descAlign=50"
     alt="Animated header for Muhammad Naimur"
     width="100%"
   />
@@ -14,7 +14,7 @@ Username: MuhammadNaimur
 <div align="center">
   <a href="https://github.com/MuhammadNaimur">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=55&lines=Hello,+World!+%F0%9F%91%8B;Web+Development+%7C+Learning+Every+Day;Building+My+Software+Engineering+Foundations;Exploring+AI-Powered+Applications;Working+Toward+Becoming+an+AI+Engineer"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=55&lines=Hello,+World!+%F0%9F%91%8B;Web+Development+%7C+Learning+Every+Day;Building+My+Software+Engineering+Foundations;Exploring+AI-Powered+Applications;AI+Engineer+in+the+Making"
       alt="Animated introduction"
     />
   </a>
@@ -22,7 +22,7 @@ Username: MuhammadNaimur
 
 ## 👋 About Me
 
-Hi, I'm **Muhammad Naimur**. I'm learning and building with web technologies, and my long-term goal is to become a **Software Engineer and AI Engineer**.
+Hi, I'm **Muhammad Naimur**. I'm learning and building with web technologies, and my long-term goal is to become a **Software Engineer and AI Engineer** and build useful, AI-powered software.
 
 - 🌐 Currently learning **HTML, CSS, JavaScript, Git, GitHub, and WordPress customization**
 - 🛠️ Interested in building useful websites, software, and AI-powered applications
@@ -31,6 +31,8 @@ Hi, I'm **Muhammad Naimur**. I'm learning and building with web technologies, an
 - 🎯 Long-term goal: understand software engineering deeply and build intelligent technology products
 
 > **Note:** Technologies in the future-learning section are goals, not claims of expertise. I'll update this profile as I gain experience and complete projects.
+
+### Building Software. Exploring AI. Creating the Future.
 
 ## 🗺️ My Learning Roadmap
 
