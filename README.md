@@ -1,17 +1,20 @@
+
+<!--
+  GitHub Profile README
+  Username: MuhammadNaimur
+-->
+
 <div align="center">
 
-# Hi, I'm Muhammad Naimur 👋
+# Hi there, I'm Naimur 👋
 
-### Beginner Web Developer | Learning by Building
+### Aspiring WordPress & Full-Stack Developer
 
-I’m building my foundation in **HTML, CSS, JavaScript, and WordPress Customization**—one practical project at a time.
+Building my skills in web development, one project at a time.
 
-<p>
-  <a href="https://muhammadnaimur.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://youtube.com/@naimurcodes"><img src="https://img.shields.io/badge/YouTube-Naimur%20Codes-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://facebook.com/MuhammadNaimurOfficial"><img src="https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="mailto:muhammadnaimurrn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-MuhammadNaimur-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadNaimur)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadNaimur&style=for-the-badge&color=blue)
 
 </div>
 
@@ -19,88 +22,74 @@ I’m building my foundation in **HTML, CSS, JavaScript, and WordPress Customiza
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **HTML, CSS, JavaScript, and WordPress Customization**.
-- 🛠️ Focused on building practical websites and improving my development fundamentals.
-- 📚 Learning through consistent practice, experimentation, and real projects.
-- 🎯 Working toward becoming a professional web developer.
-- 🤝 Open to learning from other developers and collaborating on suitable projects.
+- 🌱 Currently learning web development and improving my programming fundamentals.
+- 🛠️ Interested in WordPress customization and custom website development.
+- 💻 Learning HTML, CSS, JavaScript, PHP, and database fundamentals.
+- 🤖 Exploring how AI can improve web development workflows.
+- 🎯 Goal: Become a professional developer and build useful, real-world projects.
+- 📚 Focused on consistent practice, problem-solving, and continuous learning.
 
 ---
 
 ## 🧰 Technologies & Tools
 
-### Currently Learning / Using
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-> This section reflects my current learning focus, not a claim of expert-level proficiency.
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadNaimur&show_icons=true&hide_border=true&rank_icon=github" alt="Muhammad Naimur's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNaimur&layout=compact&hide_border=true&langs_count=8" alt="Most-used languages">
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadNaimur&hide_border=true" alt="GitHub contribution streak">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNaimur&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNaimur&hide_border=true" alt="GitHub contribution activity graph">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNaimur&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadNaimur&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-Here are some projects I’m building as I develop my skills. I’ll feature my strongest completed work here.
-
-<!-- Replace the example placeholders below with real repositories and live demos. -->
-
-| Project | Description | Technologies |
-|---|---|---|
-| **Project One** | Add a short description of a completed project and the problem it solves. | HTML, CSS, JavaScript |
-| **Project Two** | Add a short description of another project, its key features, and what you learned. | HTML, CSS, JavaScript |
-| **WordPress Project** | Add a description of a WordPress customization project you have actually completed. | WordPress |
-
-**When ready:** replace each project title and description, then link the project name to its GitHub repository and add a live demo link if available.
-
----
-
-## 🎯 Current Goals
-
-- Strengthen my HTML and CSS fundamentals.
-- Improve JavaScript problem-solving skills.
-- Build responsive, accessible, and useful websites.
-- Practice WordPress customization through real projects.
-- Maintain clear GitHub repositories and project documentation.
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://muhammadnaimur.com">🌐 Portfolio</a> ·
-  <a href="https://youtube.com/@naimurcodes">▶️ YouTube</a> ·
-  <a href="https://facebook.com/MuhammadNaimurOfficial">📘 Facebook</a> ·
-  <a href="mailto:muhammadnaimurrn@gmail.com">✉️ Email</a>
-</p>
-
----
+## 🌟 My GitHub Contributions
 
 <div align="center">
 
-*Learning consistently. Building practically. Improving every day.*
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNaimur&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 What I'm Working Toward
+
+- Building responsive and accessible websites.
+- Improving my JavaScript and programming fundamentals.
+- Learning WordPress theme and plugin customization.
+- Developing projects that solve practical problems.
+- Exploring AI-powered features for modern web applications.
+
+---
+
+## 🤝 Let's Connect
+
+If you're interested in web development, WordPress, or AI-powered applications, feel free to explore my repositories and follow my journey.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadNaimur?tab=repositories)
+
+**Keep learning. Keep building. Keep improving.** 🚀
 
 </div>
