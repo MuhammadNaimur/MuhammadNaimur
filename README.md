@@ -1,77 +1,143 @@
+<!-- Profile README for MuhammadNaimur -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:2563eb&height=200&section=header&text=Muhammad%20Naimur&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20in%20Progress&descSize=18&descAlignY=60" alt="Muhammad Naimur, web developer in progress" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:155E75,100:238636&height=190&section=header&text=Muhammad%20Naimur&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Aspiring%20AI-Driven%20WordPress%20Developer&descSize=17&descAlignY=58&animation=fadeIn" alt="Muhammad Naimur — Aspiring AI-Driven WordPress Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=3B82F6&center=true&vCenter=true&width=620&height=40&lines=Beginner+web+developer+learning+every+day;HTML+%7C+CSS+%7C+JavaScript;Exploring+WordPress+customization;Building+small+projects+step+by+step" alt="Animated introduction" />
+<a href="https://github.com/MuhammadNaimur">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3600&pause=1400&color=2EA043&center=true&vCenter=true&width=620&lines=Learning+by+building+real+projects;Practicing+HTML%2C+CSS%2C+JavaScript+%26+WordPress;Exploring+AI-assisted+web+development" alt="Learning by building real projects" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MuhammadNaimur&label=Profile%20Views&color=238636&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MuhammadNaimur?label=Followers&style=flat-square&logo=github&color=181717" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-238636?style=flat-square" alt="Learning and building" />
+</p>
+
+<p>
+  <a href="https://muhammadnaimur.com">
+    <img src="https://img.shields.io/badge/Portfolio-muhammadnaimur.com-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
+  </a>
+  <a href="https://github.com/MuhammadNaimur?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+  </a>
+</p>
 
 </div>
 
-<br />
+---
 
-## About
+## 👋 About Me
 
-I'm a beginner web developer building my foundation in **HTML, CSS, and JavaScript**, with **WordPress customization** as my first professional goal. Over time, I want to grow into a full-stack developer who uses AI tools well to build useful software.
+I'm an aspiring **AI-Driven WordPress Developer** from Bangladesh. I'm building my web development skills step by step, with a focus on creating useful, responsive websites and learning how to extend WordPress with code.
 
-## Tech Stack
+I believe AI is most useful when I understand the code it helps me write. I use AI tools to explain concepts, brainstorm solutions, debug issues, and create test ideas—but I aim to review and test code before using it.
 
-<table>
-  <tr>
-    <td><b>Learning now</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,wordpress&theme=dark" alt="HTML, CSS, JavaScript, WordPress" /></td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" /></td>
-  </tr>
-  <tr>
-    <td><b>Planned next</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-planned-475569?style=flat-square&logo=php&logoColor=white" alt="PHP (planned)" />
-      <img src="https://img.shields.io/badge/Databases-planned-475569?style=flat-square" alt="Databases (planned)" />
-      <img src="https://img.shields.io/badge/AI_API_integration-planned-475569?style=flat-square" alt="AI API integration (planned)" />
-    </td>
-  </tr>
-</table>
+```js
+const naimur = {
+  role: "Aspiring AI-Driven WordPress Developer",
+  currentlyPracticing: ["HTML", "CSS", "JavaScript", "WordPress customization"],
+  learningNext: ["PHP", "MySQL", "WordPress themes and plugins", "REST APIs"],
+  longTermGoal: "Build useful WordPress websites and AI-powered features",
+  approach: "Learn by building, test before shipping",
+};
+```
 
-<sub>I'm still learning these skills. This reflects my learning path, not a claim of expertise.</sub>
+## 🎯 Current Focus
 
-## Current Focus
+- Strengthening HTML, CSS, and JavaScript fundamentals.
+- Practicing WordPress customization with Gutenberg and page builders.
+- Learning Git and GitHub to document my progress and manage code.
+- Moving toward PHP, databases, custom themes/plugins, and secure API integration.
+- Building practical projects for my portfolio.
 
-- Getting comfortable with JavaScript by building small projects
-- Practicing responsive layouts with HTML and CSS
-- Learning WordPress customization
+## 🧰 Technologies & Tools
 
-## Projects
+### Currently Practicing
 
-| Project | About |
-| --- | --- |
-| [web-dev-learning-journey](https://github.com/MuhammadNaimur/web-dev-learning-journey) | My learning progress and practice work |
-
-<!-- Add new projects as new rows in the table above. -->
-
-[View all repositories →](https://github.com/MuhammadNaimur?tab=repositories)
-
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadNaimur&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNaimur&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most used languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, WordPress, Git, GitHub, and VS Code" />
 </p>
 
-<p align="center"><sub>Stats come from a third-party service and can take a while to refresh.</sub></p>
+### On My Learning Roadmap
 
-## Connect
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" alt="PHP and MySQL — learning roadmap" />
+  <br />
+  <img src="https://img.shields.io/badge/Gutenberg-Exploring-3858E9?style=flat-square&logo=wordpress&logoColor=white" alt="Gutenberg" />
+  <img src="https://img.shields.io/badge/Elementor-Exploring-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/WooCommerce-Planned-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/REST%20API%20%26%20JSON-Next%20Step-0A7EA4?style=flat-square" alt="REST API and JSON" />
+  <img src="https://img.shields.io/badge/AI%20API%20Integration-Future%20Focus-238636?style=flat-square" alt="AI API integration" />
+</p>
 
-<a href="https://muhammadnaimur.com"><img src="https://img.shields.io/badge/Portfolio-muhammadnaimur.com-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.youtube.com/@naimurcodes"><img src="https://img.shields.io/badge/YouTube-@naimurcodes-dc2626?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://www.facebook.com/MuhammadNaimurOfficial"><img src="https://img.shields.io/badge/Facebook-MuhammadNaimurOfficial-1d4ed8?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+> These labels reflect my learning stage, not a claim of expert-level proficiency. I'll update them as I gain hands-on experience.
+
+## 🗺️ Learning Roadmap
+
+| Stage | Focus | Progress |
+|:--:|---|:--:|
+| 1 | HTML, CSS, and responsive design | Practicing |
+| 2 | JavaScript fundamentals and DOM | Strengthening fundamentals |
+| 3 | WordPress customization and block editor | Current focus |
+| 4 | PHP and MySQL | Up next |
+| 5 | WordPress hooks, themes, and plugins | Planned |
+| 6 | REST APIs, security, and deployment | Planned |
+| 7 | AI API integration in WordPress | Long-term focus |
+
+## 🚀 Projects
+
+I'm using projects to turn what I learn into practical skills. You can find my current work in my repositories below. I'll feature individual projects here as they become ready with a clear README, screenshots, setup instructions, and testing notes.
+
+<p align="center">
+  <a href="https://github.com/MuhammadNaimur?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  </a>
+</p>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
+<a href="https://github.com/MuhammadNaimur">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadNaimur&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12" alt="Muhammad Naimur's GitHub statistics" />
+</a>
+<a href="https://github.com/MuhammadNaimur?tab=repositories">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNaimur&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Most used languages in my public repositories" />
+</a>
+
 <br />
 
-*Learning step by step. Building with purpose. Growing with AI.*
+<img height="165" src="https://streak-stats.demolab.com?user=MuhammadNaimur&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:2563eb&height=90&section=footer" alt="" width="100%" />
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/MuhammadNaimur?tab=overview">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNaimur&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+</a>
+
+</div>
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://muhammadnaimur.com">Portfolio</a> ·
+  <a href="https://github.com/MuhammadNaimur">GitHub</a> ·
+  <a href="https://youtube.com/@naimurcodes">YouTube</a> ·
+  <a href="https://facebook.com/MuhammadNaimurOfficial">Facebook</a> ·
+  <a href="mailto:muhammadnaimurrn@gmail.com">Email</a>
+</p>
+
+---
+
+<div align="center">
+
+**Learn continuously · Build thoughtfully · Use AI responsibly**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:155E75,100:238636&height=100&section=footer" alt="Footer divider" width="100%" />
 
 </div>
