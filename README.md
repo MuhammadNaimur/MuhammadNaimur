@@ -31,7 +31,7 @@
 
 I'm an aspiring **AI-Driven WordPress Developer** from Bangladesh. I'm building my web development skills step by step, with a focus on creating useful, responsive websites and learning how to extend WordPress with code.
 
-I believe AI is most useful when I understand the code it helps me write. I use AI tools to explain concepts, brainstorm solutions, debug issues, and create test ideas—but I aim to review and test code before using it.
+I believe AI is most useful when I understand the code it helps me write. I use AI tools to explain concepts, brainstorm solutions, debug issues, and create test ideas, and I review and test all code before using it.
 
 ```js
 const naimur = {
@@ -48,8 +48,8 @@ const naimur = {
 - Strengthening HTML, CSS, and JavaScript fundamentals.
 - Practicing WordPress customization with Gutenberg and page builders.
 - Learning Git and GitHub to document my progress and manage code.
-- Moving toward PHP, databases, custom themes/plugins, and secure API integration.
 - Building practical projects for my portfolio.
+- Up next: PHP, databases, custom themes/plugins, and secure API integration.
 
 ## 🧰 Technologies & Tools
 
@@ -63,7 +63,9 @@ const naimur = {
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,mysql&amp;theme=dark" alt="PHP and MySQL — learning roadmap" />
-  <br />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Gutenberg-Exploring-3858E9?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="Gutenberg" />
   <img src="https://img.shields.io/badge/Elementor-Exploring-92003B?style=flat-square&amp;logo=elementor&amp;logoColor=white" alt="Elementor" />
   <img src="https://img.shields.io/badge/WooCommerce-Planned-96588A?style=flat-square&amp;logo=woocommerce&amp;logoColor=white" alt="WooCommerce" />
@@ -78,7 +80,7 @@ const naimur = {
 | Stage | Focus | Progress |
 |:--:|---|:--:|
 | 1 | HTML, CSS, and responsive design | Practicing |
-| 2 | JavaScript fundamentals and DOM | Strengthening fundamentals |
+| 2 | JavaScript fundamentals and DOM | Strengthening |
 | 3 | WordPress customization and block editor | Current focus |
 | 4 | PHP and MySQL | Up next |
 | 5 | WordPress hooks, themes, and plugins | Planned |
@@ -87,7 +89,15 @@ const naimur = {
 
 ## 🚀 Projects
 
-I'm using projects to turn what I learn into practical skills. You can find my current work in my repositories below. I'll feature individual projects here as they become ready with a clear README, screenshots, setup instructions, and testing notes.
+I'm using projects to turn what I learn into practical skills. You can find my current work in my repositories below. I'll feature individual projects here as they become ready, with a clear README, screenshots, setup instructions, and testing notes.
+
+<!--
+Template for featured projects. Uncomment and fill in when ready:
+
+| Project | What it does | Tech | Links |
+|---|---|---|---|
+| Project name | One-line description | HTML, CSS, JS | [Repo](https://github.com/MuhammadNaimur/REPO) · [Live](https://example.com) |
+-->
 
 <p align="center">
   <a href="https://github.com/MuhammadNaimur?tab=repositories">
@@ -100,21 +110,17 @@ I'm using projects to turn what I learn into practical skills. You can find my c
 <div align="center">
 
 <a href="https://github.com/MuhammadNaimur">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadNaimur&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="Muhammad Naimur's GitHub statistics" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadNaimur&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="Muhammad Naimur's GitHub statistics" />
 </a>
 <a href="https://github.com/MuhammadNaimur?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNaimur&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="Most used languages in my public repositories" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNaimur&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="Most used languages in my public repositories" />
 </a>
 
 <br />
 
-<img height="165" src="https://streak-stats.demolab.com?user=MuhammadNaimur&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="GitHub contribution streak" />
+<img width="60%" src="https://streak-stats.demolab.com?user=MuhammadNaimur&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12" alt="GitHub contribution streak" />
 
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
+<br />
 
 <a href="https://github.com/MuhammadNaimur?tab=overview">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNaimur&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
