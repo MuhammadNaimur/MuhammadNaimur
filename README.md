@@ -33,16 +33,6 @@ I'm an aspiring **AI-Driven WordPress Developer** from Bangladesh. I'm building 
 
 I believe AI is most useful when I understand the code it helps me write. I use AI tools to explain concepts, brainstorm solutions, debug issues, and create test ideas, and I review and test all code before using it.
 
-```js
-const naimur = {
-  role: "Aspiring AI-Driven WordPress Developer",
-  currentlyPracticing: ["HTML", "CSS", "JavaScript", "WordPress customization"],
-  learningNext: ["PHP", "MySQL", "WordPress themes and plugins", "REST APIs"],
-  longTermGoal: "Build useful WordPress websites and AI-powered features",
-  approach: "Learn by building, test before shipping",
-};
-```
-
 ## 🎯 Current Focus
 
 - Strengthening HTML, CSS, and JavaScript fundamentals.
